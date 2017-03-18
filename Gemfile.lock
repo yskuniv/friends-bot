@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/yskuniv/ruboty-friends.git
+  revision: 8aa1d469238d97606347449c02a76bc6d887b0fc
+  specs:
+    ruboty-friends (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -47,6 +53,7 @@ PLATFORMS
 DEPENDENCIES
   rspec
   ruboty
+  ruboty-friends!
   ruboty-slack
 
 BUNDLED WITH
